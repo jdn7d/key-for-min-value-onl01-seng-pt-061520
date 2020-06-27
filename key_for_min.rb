@@ -9,7 +9,7 @@ if value < lowest_value
   lowest_value = value
   key_value = key
 end
-binding.pry
+
 end
 return key_value
 end
